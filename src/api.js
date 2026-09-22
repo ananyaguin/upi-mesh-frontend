@@ -1,4 +1,4 @@
-const API_URL = "https://upi-without-internet-fyww.onrender.com";
+const API_URL = "https://upi-without-internet-fyww.onrender.com/api";
 
 async function request(url, options = {}) {
     const response = await fetch(url, options);
