@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api";
+const API_URL = "https://upi-without-internet-fyww.onrender.com";
 
 async function request(url, options = {}) {
     const response = await fetch(url, options);
