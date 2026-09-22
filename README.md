@@ -24,12 +24,11 @@ A React-based frontend for the UPI Offline Mesh payment system.
 ## Backend
 
 This frontend connects to the Spring Boot backend running on:
+https://upi-without-internet-fyww.onrender.com
 
-http://localhost:8080
+Live URL:  
 
-API base URL:
-
-http://localhost:8080/api
+https://upi-mesh-frontend.vercel.app/
 
 ## Run Locally
 
